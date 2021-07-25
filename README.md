@@ -34,4 +34,4 @@ author: Dmitry Neklyudov
 Наполнять новыми проектами ))
 
 **Посмотреть проект**  
-Посмотреть портфолио можно <a href="https://portfolio.students.nomoreparties.space/" target="_blank" rel="noreferrer noopener">ТУТ</a>
+Посмотреть портфолио можно <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noreferrer noopener">ТУТ</a>
